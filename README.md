@@ -1,4 +1,8 @@
-## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25px >, I am Jay.
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25px >, I am Jay.
+
+![ProfileView](https://komarev.com/ghpvc/?username=jdai01&color=blue)
+
+
 
 ## :books: Education
 
@@ -13,6 +17,7 @@ I am a 3. Semester student studying [B.Sc. Computer Science and Artificial Intel
 - Software Engineering
 - Web Technologies
 </details>
+
 
 
 ## :bar_chart: My GitHub Activities
