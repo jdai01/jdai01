@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25px >, I am Jay.
 
-![ProfileView](https://komarev.com/ghpvc/?username=jdai01&color=blue)
+<!-- ![ProfileView](https://komarev.com/ghpvc/?username=jdai01&color=blue) -->
 
 
 
