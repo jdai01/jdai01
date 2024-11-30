@@ -27,4 +27,4 @@ I am a 3. Semester student studying [B.Sc. Computer Science and Artificial Intel
 </p>
 
 <img align="left" height="120" src="https://github-readme-stats.vercel.app/api?username=jdai01&hide_border=true&&theme=slateorange">
-<img align="right" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdai01&layout=compact&hide_border=true&langs_count=8&theme=slateorange" />
+<img align="right" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdai01&layout=compact&hide_border=true&langs_count=8&theme=slateorange&hide=jupyter%20notebook"/>
