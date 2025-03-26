@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**jdai01/jdai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jiahui, also known as Jay. 
 
-Here are some ideas to get you started:
+I am a student persuing B.Sc. Computer Science and Artificial Intelligence at Technische Hochschule Ingolstadt in Germany. 
+I'm always open to new opportunities to collaborate and work on meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📚 Current Coursework:
+- Algorithms for AI 3
+- Computer Vision
+- Database Systems and Big Data Technologies
+- Spoken and Natural Language Understanding
+- Seminar
+- Cryptology
+
+
+📫 Socials
+[LinkedIn](https://www.linkedin.com/in/jiahui-dai/)
