@@ -1,7 +1,7 @@
 # Hi there, I'm Jay 👋
 
 ## About me
-- I’m passionate about **Aviation**, **Computer Vision**, **Natural Language Processing**, and **Machine Learning**.  
+- I’m passionate about **Mobility**, **Computer Vision**, **Natural Language Processing**, and **Machine Learning**.  
 - I enjoy working on hands-on projects that expand my knowledge and push me to learn new things.  
 
 
